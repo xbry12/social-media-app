@@ -1,6 +1,6 @@
 # social-media-app
 
-##About the Project
+About the Project
 
 
 ###Prerequisites
