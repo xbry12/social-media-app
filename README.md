@@ -15,14 +15,14 @@ npm install
 npm install
 ```
 
-###Built With:
-React JS
+### Built With:
+* [React JS] (https://reactjs.org)
 * [Bootstrap](https://getbootstrap.com)
 
 
-###Deployment
+### Deployment
 N/A
 
-###Author
+### Author
 Bryant Pyram
 
