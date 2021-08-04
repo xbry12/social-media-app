@@ -1,4 +1,4 @@
-# social-media-app
+# Welcome to my Social Media App
 
 ### About the Project
 <!-- ABOUT THE PROJECT -->
