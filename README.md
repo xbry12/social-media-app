@@ -1,7 +1,7 @@
 # social-media-app
 
-About the Project
-
+### About the Project
+<!-- ABOUT THE PROJECT -->
 
 ### Prerequisites
 
