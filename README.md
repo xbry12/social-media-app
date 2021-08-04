@@ -16,7 +16,7 @@ npm install
 ```
 
 ### Built With:
-* [React JS] (https://reactjs.org)
+* [React JS](https://reactjs.org)
 * [Bootstrap](https://getbootstrap.com)
 
 
