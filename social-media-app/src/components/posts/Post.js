@@ -19,9 +19,10 @@ const Post = (props) => (
           </div>
         ))
       ) : (
-        <p>
-          <span>No New Post</span>
-        </p>
+        // <p>
+        //   <span>No New Post</span>
+        // </p>
+        null
       )}
     </div>
   </div>

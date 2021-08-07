@@ -1,28 +1,23 @@
-// import "../../App.css";
-// import Aside from "../components/aside/Aside";
-// import Footer from "../components/footer/Footer";
+import '../App.css'
+import Aside from "../components/aside/Aside";
+// import Aside2 from '../components/aside/Aside2'  
+import Footer from "../components/footer/Footer";
 import Navbar from "../components/navbar/Navbar";
-// import Newsfeed from "../components/newsfeed/Newsfeed";
+import Newsfeed from "../components/newsfeed/Newsfeed";
 
 function App() {
   return (
-    <div className="App">
+    <div className="wrapper">
+      {/* <div><Aside2/></div> */}
       
-      <div>
+      <div className='header'>
         <Navbar />
       </div>
-{/* 
-      <div>
-        <Newsfeed />
-      </div>
+      <div className='content'><Newsfeed/></div>
+      
+      <div className='sidebar'><Aside/></div>
+      <div className='footer'><Footer/></div>
 
-      <div>
-        <Aside />
-      </div>
-
-      <div>
-        <Footer />
-      </div> */}
 
     </div>
   );

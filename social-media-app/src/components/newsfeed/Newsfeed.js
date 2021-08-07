@@ -18,7 +18,9 @@ function Newsfeed() {
   const addPost = (thepost) => {
     thepost.id = posts.length + 1;
     setPost([...thepost, posts]);
+    console.log(thepost,posts)
   };
+  
   const updatePost = (newposts) => {
     setPost({
       username: newposts.username,
