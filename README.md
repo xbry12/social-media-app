@@ -15,7 +15,8 @@ This project was created as a mock Social Media App. The CRUD functionality of t
 N/A
 
 ### Author
+
 Bryant Pyram
 
-### ReadMe Template
+<!-- ### ReadMe Template -->
 <!-- * [Template](https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/README.md) -->
