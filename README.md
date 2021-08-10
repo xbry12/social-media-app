@@ -3,21 +3,12 @@
 ### About the Project
 <!-- ABOUT THE PROJECT -->
 
-### Prerequisites
+This project was created as a mock Social Media App. The CRUD functionality of the app was designed with to allow a user to be able to create a post with a username, update the post, add an image, and even delete the post. 
 
-```
-npm install
-```
-
-###Installation
-
-```
-npm install
-```
 
 ### Built With:
 * [React JS](https://reactjs.org)
-* [Bootstrap](https://getbootstrap.com)
+<!-- * [Bootstrap](https://getbootstrap.com) -->
 
 
 ### Deployment
@@ -27,4 +18,4 @@ N/A
 Bryant Pyram
 
 ### ReadMe Template
-* [Template](https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/README.md)
+<!-- * [Template](https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/README.md) -->
