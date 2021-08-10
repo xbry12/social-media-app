@@ -13,14 +13,6 @@ function Newsfeed() {
   };
   const [posts, setPost] = useState(initialPost);
 
-  // YO user = thepost AND
-
-  const addPost = (thepost) => {
-    thepost.id = posts.length + 1;
-    setPost([...thepost, posts]);
-    console.log(thepost,posts)
-  };
-  
   const updatePost = (newposts) => {
     setPost({
       username: newposts.username,
@@ -50,7 +42,20 @@ function Newsfeed() {
     },
   ];
 
+  // YO user = thepost AND  
+
+  const addPost = (thepost) => {
+    thepost.id = posts.length + 1;
+    setPost([...thepost, posts]);
+    console.log(thepost, posts);
+  };
+  // const addPost = (posts) => {
+  //   thepost.id = thepost.length + 1;
+  //   setPost([posts,thepost]);
+  //   console.log( posts,thepost);
+  // };
   const [thepost, myPost] = useState(postData);
+
   //using
 
   const [username, newUsername] = useState("");
@@ -101,6 +106,7 @@ function Newsfeed() {
         <div>
           MOCK POST BELOW:
           <Post thepost={thepost} />
+          {/* <Post posts={posts}/> */}
         </div>
       </div>
     </div>
