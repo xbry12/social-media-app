@@ -12,11 +12,12 @@ This project was created as a mock Social Media App. The CRUD functionality of t
 
 
 ### Deployment
-N/A
+* [FriendSearch](https://objective-curie-058e96.netlify.app/) is deployed here! 
 
 ### Author
 
 Bryant Pyram
+
 
 <!-- ### ReadMe Template -->
 <!-- * [Template](https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/README.md) -->
